@@ -3,8 +3,7 @@
 
 Для генерации случайного числа использовать метод Math.random(), который возвращает значение в промежутке [0, 1].
 
-```
-csharp filename="Program.cs"
+```csharp filename="Program.cs"
 
 using System;
 using System.Linq;
